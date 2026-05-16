@@ -15,7 +15,7 @@
 
 ## 👋 Sobre mim
 
-Engenheiro de Software com experiência real em ambiente de produção institucional. Atuo como **referência técnica** no setor de tecnologia da **ESMAT/TJTO**, onde lidero o ciclo completo de projetos — do levantamento de requisitos ao deploy.
+Engenheiro de Software com experiência real em ambiente de produção institucional. Atuo como **referência técnica** no setor de tecnologia da **ESMAT/TJTO**, onde lidero o ciclo completo de projetos do levantamento de requisitos ao deploy.
 
 Desenvolvo soluções back-end robustas com **C#, ASP.NET Core e SQL**, crio integrações via API REST e trabalho com **IA Generativa em produção** (Vertex AI / Google Cloud).
 
@@ -61,7 +61,7 @@ Desenvolvo soluções back-end robustas com **C#, ASP.NET Core e SQL**, crio int
 ## 🚀 Projetos em destaque
 
 ### 🎓 Módulo de Pós-graduações — ESMAT/TJTO
-> Sistema completo de gestão acadêmica desenvolvido do zero. Centraliza matrículas, disciplinas e notas, com sincronização automática com o AVA Moodle via banco de dados — eliminando cadastros manuais.
+> Sistema completo de gestão acadêmica desenvolvido do zero. Centraliza matrículas, disciplinas e notas, com sincronização automática com o AVA Moodle via banco de dados eliminando cadastros manuais.
 
 `C#` `ASP.NET Core MVC` `SQL Server` `Entity Framework` `Moodle`
 
