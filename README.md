@@ -1,13 +1,12 @@
 <div align="center">
 
-![Banner]([https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=200&section=header&text=Luiz%20Carlos%20Porto&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20C%23%20%26%20.NET%20Specialist&descAlignY=58&descColor=d0f0e5](https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=200&section=header&text=Luiz%20Carlos%20Porto&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20C%23%20%26%20.NET%20Specialist&descAlignY=58&descColor=d0f0e5))
-
+  ![Banner Luiz Carlos Porto](https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=200&section=header&text=Luiz%20Carlos%20Porto&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20C%23%20%2F%20.NET%20Specialist&descAlignY=58&descColor=d0f0e5)
+  
 </div>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luizcporto/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuizCPorto)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizportocarlodocarmo123@gmail.com)
 
 </div>
